@@ -16,7 +16,7 @@ const Experience = () => {
       ]
     },
     {
-      title: "Community Manager and Lead Researchert",
+      title: "Community Manager and Lead Researcher",
       company: "Crypto CU",
       location: "Nigeria",
       period: "2022 - Present",
